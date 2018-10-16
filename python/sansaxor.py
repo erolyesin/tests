@@ -20,7 +20,6 @@ from __future__ import division
 # (56x56x56x56x56) ->
 # (0x12)x(0)x(0x34)x(0)x(0x56)
 
-# Each number appears twice.
 # Self XORing any number with itself even number of times results in zero.
 # And, XORing any number with itself odd number of times results in itself.
 # So, any array of even size will always result in zero
