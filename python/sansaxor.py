@@ -20,9 +20,9 @@ from __future__ import division
 # (56x56x56x56x56) ->
 # (0x12)x(0)x(0x34)x(0)x(0x56)
 
-# Self XORing any number with itself even number of times results in zero.
+# XORing a number with itself even number of times results in a zero.
 # And, XORing any number with itself odd number of times results in itself.
-# So, any array of even size will always result in zero
+# So, since an even sized array results in even number of instences of each number, an array of even size will result in a zero
 # Odd sized array only needs to XOR the array once for those numbers that appear odd number of times.
 # And, it appears that for odd sized arrays the even indexed numbers appear odd number of times.
 
