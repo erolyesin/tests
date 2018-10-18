@@ -4,7 +4,7 @@
  Author      : Erol Yesin
  Version     : v0.0.1
  Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Description : Collection of tests.  The logics are in modules in same direcctory. 
  ============================================================================
  */
 
